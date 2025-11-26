@@ -53,5 +53,11 @@ namespace OnlineQuizSystem
             this.email = email;
             this.role = role;
         }
+
+        //methods
+        public void updateProfile()
+        {
+
+        }
     }
 }
