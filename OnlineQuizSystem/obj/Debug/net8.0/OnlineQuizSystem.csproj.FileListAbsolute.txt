@@ -1,0 +1,16 @@
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\obj\Debug\net8.0\OnlineQuizSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\obj\Debug\net8.0\OnlineQuizSystem.AssemblyInfoInputs.cache
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\obj\Debug\net8.0\OnlineQuizSystem.AssemblyInfo.cs
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\obj\Debug\net8.0\OnlineQuizSystem.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\obj\Debug\net8.0\OnlineQuizSystem.Properties.Resources.resources
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\obj\Debug\net8.0\OnlineQuizSystem.csproj.GenerateResource.cache
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\bin\Debug\net8.0\OnlineQuizSystem.exe
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\bin\Debug\net8.0\OnlineQuizSystem.deps.json
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\bin\Debug\net8.0\OnlineQuizSystem.runtimeconfig.json
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\bin\Debug\net8.0\OnlineQuizSystem.dll
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\bin\Debug\net8.0\OnlineQuizSystem.pdb
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\obj\Debug\net8.0\OnlineQuizSystem.dll
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\obj\Debug\net8.0\refint\OnlineQuizSystem.dll
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\obj\Debug\net8.0\OnlineQuizSystem.pdb
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\obj\Debug\net8.0\OnlineQuizSystem.genruntimeconfig.cache
+C:\Users\marki\Desktop\Group-19-Coursework2-Question\OnlineQuizSystem\obj\Debug\net8.0\ref\OnlineQuizSystem.dll
